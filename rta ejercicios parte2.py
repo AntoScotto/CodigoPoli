@@ -101,10 +101,10 @@ while True:
 '''
 import random
 
-# Generar un número aleatorio entre 1 y 100
+
 num = random.randint(1, 100)
 
-# Pedir al usuario que adivine el número
+
 intentos = 0
 while True:
     intentos += 1
